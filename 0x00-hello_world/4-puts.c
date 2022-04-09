@@ -1,12 +1,8 @@
-/*
- * file : 4-puts.c
- * Auth : yonas tekle
-*/
-#include <stdio.h>
 /**
- * main - entry point
- * return always 0
+ *main - entry point
+ *returns 0
 */
+#includes <stdio.h>
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
