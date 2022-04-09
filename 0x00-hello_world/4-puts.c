@@ -1,6 +1,11 @@
+/* 
+ * file : 4-puts.c
+ * Auth : yonas tekle <yonastekle433>
+ */
 #include <stdio.h>
 int main(void)
 {
-puts("\"programming is like building a multilingual puzzel");
-return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+
+	return (0);
 }
