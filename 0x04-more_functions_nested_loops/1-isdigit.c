@@ -5,7 +5,7 @@
  * @c : The character to be checked.
  *
  * Return: 1 if character is 0 through 9, 0 otherwise.
-*/
+ */
 
 int _isdigit(int c)
 {
